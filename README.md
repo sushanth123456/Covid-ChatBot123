@@ -23,7 +23,7 @@ https://sites.google.com/view/covidchatbot123/home
 
 Go to "Enter your message" then ask your queries and the needed and relevent answers will be shown as the reply
 
-    ![Alt text](https://github.com/sushanth123456/Covid-ChatBot123/blob/main/Assets/images/Screenshot(18).png)
+    ![Model](https://github.com/sushanth123456/Covid-ChatBot123/blob/main/Assets/images/Screenshot(18).png)
   
 ## Features
 
