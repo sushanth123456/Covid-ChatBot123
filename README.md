@@ -23,12 +23,34 @@ https://sites.google.com/view/covidchatbot123/home
 
 Go to "Enter your message" then ask your queries and the needed and relevent answers will be shown as the reply
 
-    ![Model](https://raw.githubusercontent.com/sushanth123456/Covid-ChatBot123/blob/main/Assets/images/Screenshot(18).png)
-  
+<p>
+    <img src="/Assets/images/Screenshot(18).png" width="1500" height="750" />
+</p>
+<p>
+    <img src="/Assets/images/Screenshot(20).png" width="1500" height="750" />
+</p>
+<p>
+    <img src="/Assets/images/Screenshot(23).png" width="1500" height="750" />
+</p>
+
+  <p>
+    <img src="/Assets/images/Screenshot(25).png" width="1500" height="750" />
+</p>
+<p>
+    <img src="/Assets/images/Screenshot(27).png" width="1500" height="750" />
+</p>
+<p>
+    <img src="/Assets/images/Screenshot(29).png" width="1500" height="750" />
+</p>
+<p>
+    <img src="/Assets/images/Screenshot(30).png" width="1500" height="750" />
+</p>
 ## Features
 
 - Simple User Interface
 - Highly Interactive
 - Effective in Answering
-- exceptionally Acurate 
+- Exceptionally Acurate 
 
+## Project Demo Video Link
+- https://drive.google.com/file/d/10UlsgJ06ggEuwVRVLxbu_-TChN0IzVFB/view?usp=sharing
