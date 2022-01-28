@@ -46,5 +46,5 @@ Go to "Enter your message" then ask your queries and the needed and relevent ans
 - Simple User Interface
 - Highly Interactive
 - Effective in Answering
-- Exectionally Acurate 
+- exceptionally Acurate 
 
