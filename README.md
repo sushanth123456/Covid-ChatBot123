@@ -22,41 +22,25 @@ After you enter the site
 https://sites.google.com/view/covidchatbot123/home
 
 Go to "Enter your message" then ask your queries and the needed and relevent answers will be shown as the reply
-```md
-    ![alt text](./Assets/images/Screenshot (18).png)
-    ```
 
-    ```md
+    ![Alt text](./Assets/images/Screenshot (18).png)
+    
     ![alt text](./Assets/images/Screenshot (19).png)
-    ```
 
-    ```md
     ![alt text](./Assets/images/Screenshot (20).png)
-    ```
 
-    ```md
     ![alt text](./Assets/images/Screenshot (21).png)
-    ```
 
-    ```md
     ![alt text](./Assets/images/Screenshot (22).png)
-    ```
-
-    ```md
+    
     ![alt text](./Assets/images/Screenshot (23).png)
-    ```
 
-    ```md
     ![alt text](./Assets/images/Screenshot (24).png)
-    ```
 
-    ```md
     ![alt text](./Assets/images/Screenshot (25).png)
-    ```
 
-    ```md
     ![alt text](./Assets/images/Screenshot (30).png)
-    ```
+  
 ## Features
 
 - Simple User Interface
