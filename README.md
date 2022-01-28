@@ -23,23 +23,8 @@ https://sites.google.com/view/covidchatbot123/home
 
 Go to "Enter your message" then ask your queries and the needed and relevent answers will be shown as the reply
 
-    ![Alt text](/Assets/images/Screenshot(18).png?raw=true)
+    ![Alt text](/Assets/images/Screenshot(18).png?raw=true "First Screen")
     
-    ![Alt text](/Assets/images/Screenshot(19).png?raw=true)
-
-    ![Alt text](/Assets/images/Screenshot(20).png?raw=true)
-
-    ![Alt text](/Assets/images/Screenshot(21).png?raw=true)
-
-    ![Alt text](/Assets/images/Screenshot(22).png?raw=true)
-    
-    ![Alt text](/Assets/images/Screenshot(23).png?raw=true)
-
-    ![Alt text](/Assets/images/Screenshot(24).png?raw=true)
-
-    ![Alt text](/Assets/images/Screenshot(25).png?raw=true)
-
-    ![Alt text](/Assets/images/Screenshot(30).png?raw=true)
   
 ## Features
 
